@@ -1,0 +1,28 @@
+1. git init
+2. git config user.name / user.email.
+3. git add
+4. git commit -m "Comments"
+5. git log 
+6. git status
+7. git clone --> Makes the replica of github repository...
+8. git diff
+9. git branch 
+10. git checkout
+11. git merge
+12. git remote (rm, add, -v)
+13. git push
+14. git pull
+
+
+
+try
+1. git ignore
+2. git mv
+3. git tag
+
+
+
+1. Try all the command shown in the class.
+2. Try the assignments..
+3. Type git in the command prompt and write the given commands with the description in a sheet of paper and send it in watsapp grp and place it in google drive.
+4. Write the git commands given in https://git-scm.com/docs... Basic one... and send it...
